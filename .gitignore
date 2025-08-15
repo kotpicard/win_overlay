@@ -1,0 +1,11 @@
+build/
+dist/
+__pycache__/
+__
+alt_texts.txt
+log.txt
+*.spec
+settings.json
+overlay_setup_creator.py
+venv/
+.idea/
